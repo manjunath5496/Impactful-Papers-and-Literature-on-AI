@@ -129,7 +129,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(54).pdf" style="text-decoration:none;">FractalNet: Ultra-Deep Neural Networks without Residuals</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(55).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(56).pdf" style="text-decoration:none;">&&&&&&&&&&</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(56).pdf" style="text-decoration:none;">Deep Learning: A Critical Appraisal </a></b></li>  
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(57).pdf" style="text-decoration:none;">Geometric deep learning: going beyond Euclidean data</a></b></li> 
 
