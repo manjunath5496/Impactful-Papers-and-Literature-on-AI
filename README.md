@@ -1,6 +1,4 @@
 <h2>AI Hardware: </h2>
-<hr>
-
 
 <ul>
   
@@ -22,30 +20,44 @@
  </br>
  
  <h2>AI Business: </h2>
-<hr>
 
  <ul>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(8).pdf" style="text-decoration:none;">Statistical and Inductive Probability</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(8).pdf" style="text-decoration:none;">Impact of Artificial Intelligence on Businesses: from Research, Innovation, Market Deployment to Future Shifts in Business Models</a></b></li>
+</ul>
+</br>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(9).pdf" style="text-decoration:none;">Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(10).pdf" style="text-decoration:none;">Steps Toward Artificial Intelligence</a></b></li>  
+ <h2>AI Game Theory: </h2>
+
+ <ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(9).pdf" style="text-decoration:none;">A Polynomial-time Nash Equilibrium Algorithm for Repeated Games</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(10).pdf" style="text-decoration:none;">Building Machines that Learn and Think for Themselves: Commentary on Lake, Ullman, Tenenbaum, and Gershman, Behavioral and Brain Sciences, 2017</a></b></li>  
                           
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(11).pdf" style="text-decoration:none;">The Working Set Model for Program Behavior </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(11).pdf" style="text-decoration:none;">Friend-or-Foe Q-learning in General-Sum Games </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(12).pdf" style="text-decoration:none;">Human problem solving: The state of the theory in 1970</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(12).pdf" style="text-decoration:none;">An introduction to information theory and entropy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(13).pdf" style="text-decoration:none;">Computer Science as Empirical Inquiry: Symbols and Search</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(14).pdf" style="text-decoration:none;">The Knowledge Level</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(15).pdf" style="text-decoration:none;">Parallel distributed processing, Explorations in the microstructure of cognition, Volume 1: Foundations</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(16).pdf" style="text-decoration:none;">Intelligence without representation</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(13).pdf" style="text-decoration:none;">Markov games as a framework for multi-agent reinforcement learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(14).pdf" style="text-decoration:none;">Monte-Carlo Tree Search: A New Framework for Game AI</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(15).pdf" style="text-decoration:none;">Non-zero-sum Game Theory, Auctions and Negotiation</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(16).pdf" style="text-decoration:none;">Solving Stochastic Games</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(17).pdf" style="text-decoration:none;">Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(17).pdf" style="text-decoration:none;">Introduction to Game Theory</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(18).pdf" style="text-decoration:none;">Gradient-Based Learning Applied to Document Recognition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(18).pdf" style="text-decoration:none;">Toward an AI Physicist for Unsupervised Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(19).pdf" style="text-decoration:none;">The PageRank Citation Ranking: Bringing Order to the Web</a></b></li>                         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(19).pdf" style="text-decoration:none;">Games with Hidden Information</a></b></li>
+
+</ul>
+
+</br>
+
+ <h2>AI Game Theory: </h2>
+
+
+<ul>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(20).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></b></li>  
                           
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(21).pdf" style="text-decoration:none;">Deep Learning of Representations: Looking Forward</a></b></li>
