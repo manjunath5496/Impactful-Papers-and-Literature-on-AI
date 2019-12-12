@@ -144,7 +144,42 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(63).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(64).pdf" style="text-decoration:none;">Learning long-term dependencies with gradient descent is difficult</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(65).pdf" style="text-decoration:none;">Long short-term memory</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(66).pdf" style="text-decoration:none;">Luck Matters: Understanding Training Dynamics of Deep ReLU Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(67).pdf" style="text-decoration:none;">Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(68).pdf" style="text-decoration:none;">Mastering the game of Go with deep neural networks and tree search</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(69).pdf" style="text-decoration:none;">Mathematics of Deep Learning</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(70).pdf" style="text-decoration:none;">Maxout Networks</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(71).pdf" style="text-decoration:none;">Mixed Precision Training</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(72).pdf" style="text-decoration:none;">Mixture Density Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(73).pdf" style="text-decoration:none;">MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(74).pdf" style="text-decoration:none;">MorphNet: Fast and Simple Resource-Constrained Structure Learning of Deep Networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(75).pdf" style="text-decoration:none;">Network In Network</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(76).pdf" style="text-decoration:none;">Neural Architecture Search with Reinforcement Learning</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(77).pdf" style="text-decoration:none;">Neural Arithmetic Logic Units</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(78).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(79).pdf" style="text-decoration:none;">Neural Networks for Optimal Approximation of Smooth and Analytic Functions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(80).pdf" style="text-decoration:none;">Neural Ordinary Differential Equations</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(81).pdf" style="text-decoration:none;">Neuro-Dynamic Programming: An Overview</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(82).pdf" style="text-decoration:none;">Number detectors spontaneously emerge in a deep neural network designed for visual object recognition</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(83).pdf" style="text-decoration:none;">On the diculty of training recurrent neural networks</a></b></li> 
 
 
 
