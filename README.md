@@ -373,7 +373,25 @@
  </br>
 
 
+<h2>Reinforcement Learning: </h2>
 
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(154).pdf" style="text-decoration:none;">A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(155).pdf" style="text-decoration:none;">A View on Deep Reinforcement Learning in System Optimization</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(156).pdf" style="text-decoration:none;">Adaptive Critics and the Basal Ganglia</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(157).pdf" style="text-decoration:none;">Algorithms for Reinforcement Learning</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(158).pdf" style="text-decoration:none;">An Analysis of Temporal-Difference Learning with Function Approximation</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(159).pdf" style="text-decoration:none;">Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(160).pdf" style="text-decoration:none;">Curiosity-driven Exploration by Self-supervised Prediction</a></b></li>
+ 
+ </ul>
 
 
 
