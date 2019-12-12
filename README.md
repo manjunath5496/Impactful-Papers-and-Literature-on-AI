@@ -454,6 +454,30 @@
  
  </ul>
 
+ </br>
 
 
+<h2>Statistics and Statistical Learning: </h2>
+
+<ul>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(186).pdf" style="text-decoration:none;">A survey of dimension reduction techniques</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(187).pdf" style="text-decoration:none;">Independent Component Analysis: Algorithms and Applications</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(188).pdf" style="text-decoration:none;">Nonlinear Principal Component Analysis Using Autoassociative Neural Networks</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(189).pdf" style="text-decoration:none;">On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(190).pdf" style="text-decoration:none;">Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(191).pdf" style="text-decoration:none;">Regularization Paths for Generalized Linear Models via Coordinate Descent</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(192).pdf" style="text-decoration:none;">Statistical Modeling: The Two Cultures</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(193).pdf" style="text-decoration:none;">Survey on Independent Component Analysis </a></b></li>
+ 
+ 
+ </ul>
 
