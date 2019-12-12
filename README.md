@@ -179,8 +179,26 @@
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(82).pdf" style="text-decoration:none;">Number detectors spontaneously emerge in a deep neural network designed for visual object recognition</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(83).pdf" style="text-decoration:none;">On the diculty of training recurrent neural networks</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(83).pdf" style="text-decoration:none;">On the difficulty of training recurrent neural networks</a></b></li> 
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(84).pdf" style="text-decoration:none;">On the Variance of the Adaptive Learning Rate and Beyond</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(85).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(86).pdf" style="text-decoration:none;">Piecewise Linear Multilayer Perceptrons and Dropout</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(87).pdf" style="text-decoration:none;">Practical Recommendations for Gradient-Based Training of Deep Architectures</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(88).pdf" style="text-decoration:none;">Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(89).pdf" style="text-decoration:none;">Rectified Linear Units Improve Restricted Boltzmann Machines</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(90).pdf" style="text-decoration:none;">Representation Learning: A Review and New Perspectives</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(91).pdf" style="text-decoration:none;">Revisiting Unreasonable Effectiveness of Data in Deep Learning Era</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(92).pdf" style="text-decoration:none;">Searching for Activation Functions</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(93).pdf" style="text-decoration:none;">SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation</a></b></li> 
 
 
 
