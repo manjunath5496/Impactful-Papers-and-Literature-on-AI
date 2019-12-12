@@ -391,6 +391,61 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(160).pdf" style="text-decoration:none;">Curiosity-driven Exploration by Self-supervised Prediction</a></b></li>
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(161).pdf" style="text-decoration:none;">Curious model-building control systems</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(162).pdf" style="text-decoration:none;">Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(163).pdf" style="text-decoration:none;">Deep Recurrent Q-Learning for Partially Observable MDPs</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(164).pdf" style="text-decoration:none;">Deep reinforcement learning</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(165).pdf" style="text-decoration:none;">Deep Reinforcement Learning that Matters</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(166).pdf" style="text-decoration:none;">DeepMDP: Learning Continuous Latent Space Models for Representation Learning</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(167).pdf" style="text-decoration:none;">DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills</a></b></li>
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(168).pdf" style="text-decoration:none;">Episodic Curiosity through Reachability</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(169).pdf" style="text-decoration:none;">10703 Deep Reinforcement Learning and Control</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(170).pdf" style="text-decoration:none;">Making RL practical</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(171).pdf" style="text-decoration:none;">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a></b></li>
+ 
+ 
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(172).pdf" style="text-decoration:none;">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(173).pdf" style="text-decoration:none;">Mastering the Game of Go without Human Knowledge</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(174).pdf" style="text-decoration:none;">Near-Optimal Reinforcement Learning in Polynomial Time</a></b></li>
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(175).pdf" style="text-decoration:none;">PEGASUS: A policy search method for large MDPs and POMDPs</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(176).pdf" style="text-decoration:none;">Playing Atari with Deep Reinforcement Learning</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(177).pdf" style="text-decoration:none;">Policy Gradient Methods for Reinforcement Learning with Function Approximation</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(178).pdf" style="text-decoration:none;">Prefrontal cortex as a meta-reinforcement learning system</a></b></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
 
 
