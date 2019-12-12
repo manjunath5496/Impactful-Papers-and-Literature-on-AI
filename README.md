@@ -311,11 +311,35 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(137).pdf" style="text-decoration:none;">Machine learning at the energy and intensity frontiers of particle physics</a></b></li>
  
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(138).rar" style="text-decoration:none;">How can machine learning solve my problem?</a></b></li>
  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(139).pdf" style="text-decoration:none;">Please Stop Explaining Black Box Models for High-Stakes Decisions</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(140).pdf" style="text-decoration:none;">Regression Error Characteristic Curves</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(141).pdf" style="text-decoration:none;">Restructuring Sparse High Dimensional Data for Effective Retrieval</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(142).pdf" style="text-decoration:none;">Support-vector networks</a></b></li>
+  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(143).pdf" style="text-decoration:none;">The Optimality of Naive Bayes</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(144).pdf" style="text-decoration:none;">The Riemannian Geometry of Deep Generative Models</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(145).pdf" style="text-decoration:none;">Theoretical Impediments to Machine Learning: A position paper</a></b></li>
+  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(146).pdf" style="text-decoration:none;">TherML: Thermodynamics of Machine Learning</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(147).pdf" style="text-decoration:none;">Top 10 algorithms in data mining</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(148).pdf" style="text-decoration:none;">CS260: Machine Learning Theory Lecture 13: Weak vs. Strong Learning and the Adaboost Algorithm</a></b></li>
+  
  
  
  
