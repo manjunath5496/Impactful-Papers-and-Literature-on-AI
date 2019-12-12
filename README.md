@@ -239,3 +239,42 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(114).pdf" style="text-decoration:none;">You Only Look Once: Unified, Real-Time Object Detection</a></b></li> 
    
 </ul>
+
+</br>
+<h2>Explainability in AI: </h2>
+
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(115).pdf" style="text-decoration:none;">Attentive Explanations: Justifying Decisions and Pointing to the Evidence</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(116).pdf" style="text-decoration:none;">Explainable Artificial Intelligence (XAI)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(117).pdf" style="text-decoration:none;">Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(118).pdf" style="text-decoration:none;">The Mythos of Model Interpretability</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(119).pdf" style="text-decoration:none;">Towards Robust Interpretability with Self-Explaining Neural Networks</a></b></li>
+ </ul>
+ </br>
+ <h2>Fairness, Bias, Ethics in AI and ML: </h2>
+ <ul>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(6).pdf" style="text-decoration:none;">Recent progress in analog memory-based accelerators for deep learning</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(7).pdf" style="text-decoration:none;">Rethinking floating point for deep learning</a></b></li>
+ 
+ </ul>
+ </br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
