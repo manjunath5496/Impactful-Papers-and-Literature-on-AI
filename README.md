@@ -434,16 +434,22 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(178).pdf" style="text-decoration:none;">Prefrontal cortex as a meta-reinforcement learning system</a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(179).pdf" style="text-decoration:none;">Proximal Policy Optimization Algorithms</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(180).pdf" style="text-decoration:none;">Reinforcement Learning: A Tutorial Survey and Recent Advances</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(181).pdf" style="text-decoration:none;">Reinforcement Learning: An Introduction</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(182).pdf" style="text-decoration:none;">Reinforcement Learning: A Survey</a></b></li>
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(183).pdf" style="text-decoration:none;">Reinforcement Learning</a></b></li>  
  
- 
- 
- 
- 
- 
- 
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(184).pdf" style="text-decoration:none;">Reinforcement Learning for Long-Run Average Cost</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(185).pdf" style="text-decoration:none;">Lecture: Introduction to Reinforcement Learning</a></b></li>
  
  
  </ul>
