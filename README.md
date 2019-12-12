@@ -348,10 +348,29 @@
  </ul>
  </br>
 
+ <h2>Learning Theory: </h2>
+ <ul>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(149).pdf" style="text-decoration:none;">Computational learning theory </a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(150).pdf" style="text-decoration:none;">Efficiency and Computational Limitations of Learning Algorithms</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(151).pdf" style="text-decoration:none;">Gaussian Processes for Machine Learning</a></b></li>
+ 
+ </ul>
+ </br>
 
 
+ <h2>NLP, Language models: </h2>
+ <ul>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(152).pdf" style="text-decoration:none;">BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop</a></b></li>  
+                                             
 
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(153).pdf" style="text-decoration:none;">Language Models are Unsupervised Multitask Learners</a></b></li>
+ 
+ 
+ </ul>
+ </br>
 
 
 
