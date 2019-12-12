@@ -54,26 +54,29 @@
 
 </br>
 
- <h2>AI Game Theory: </h2>
+ <h2>Application of AI: </h2>
 
 
 <ul>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(20).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(20).pdf" style="text-decoration:none;">Discovering physical concepts with neural networks</a></b></li>  
                           
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(21).pdf" style="text-decoration:none;">Deep Learning of Representations: Looking Forward</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(21).pdf" style="text-decoration:none;">Exploring galaxy evolution with generative models</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(22).pdf" style="text-decoration:none;">Learning Deep Architectures for AI</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(22).pdf" style="text-decoration:none;">Learning to Predict the Cosmological Structure Formation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(23).pdf" style="text-decoration:none;">Wikipedia-based Semantic Interpretation for Natural Language Processing</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(24).pdf" style="text-decoration:none;">YAGO2: A Spatially and Temporally Enhanced Knowledge Base from Wikipedia</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(23).pdf" style="text-decoration:none;">Newton vs the machine: solving the chaotic three-body problem using deep neural networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(24).pdf" style="text-decoration:none;">QuCumber: wavefunction reconstruction with neural networks</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(25).pdf" style="text-decoration:none;">Adaptive Submodularity: Theory and Applications in Active Learning and Stochastic Optimization</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(25).pdf" style="text-decoration:none;">Tackling Climate Change with Machine Learning</a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(26).pdf" style="text-decoration:none;">Playing Atari with Deep Reinforcement Learning</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(26).pdf" style="text-decoration:none;">TossingBot: Learning to Throw Arbitrary Objects with Residual Physics</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(27).pdf" style="text-decoration:none;">DeepFace: Closing the Gap to Human-Level Performance in Face Verification</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(27).pdf" style="text-decoration:none;">Unsupervised word embeddings capture latent knowledge from materials science literature</a></b></li>
+  </ul>
+  </br>
   
+  <h2>Deep Learning: </h2>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(28).pdf" style="text-decoration:none;">Human-level control through deep reinforcement learning</a></b></li>
 
 
