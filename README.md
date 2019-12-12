@@ -257,15 +257,72 @@
  </br>
  <h2>Fairness, Bias, Ethics in AI and ML: </h2>
  <ul>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(120).pdf" style="text-decoration:none;">Fair is Better than Sensational: Man is to Doctor asWoman is to Doctor</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(120).pdf" style="text-decoration:none;">Fair is Better than Sensational: Man is to Doctor as Woman is to Doctor</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(121).pdf" style="text-decoration:none;">The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning</a></b></li>
  
  </ul>
  </br>
+ 
+ <h2>General Machine Learning: </h2>
+ <ul>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(122).pdf" style="text-decoration:none;">A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting</a></b></li>  
+                                             
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(123).pdf" style="text-decoration:none;">A Few Useful Things to Know about Machine Learning</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(124).pdf" style="text-decoration:none;">A Survey of Collaborative Filtering Techniques</a></b></li>  
+                                             
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(125).pdf" style="text-decoration:none;">A survey of cross-validation procedures for model selection</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(126).pdf" style="text-decoration:none;">Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(127).pdf" style="text-decoration:none;">AdaBoost</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(128).pdf" style="text-decoration:none;">An Efficient Approach for Assessing Hyperparameter Importance</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(129).pdf" style="text-decoration:none;">An Impossibility Theorem for Clustering</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(130).pdf" style="text-decoration:none;">An Interactive Machine Learning Framework</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(131).pdf" style="text-decoration:none;">API design for machine learning software: experiences from the scikit-learn project</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(132).pdf" style="text-decoration:none;">Pattern Recognition and Machine Learning</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(133).pdf" style="text-decoration:none;">Boosting the margin: A new explanation for the effectiveness of voting methods</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(134).pdf" style="text-decoration:none;">For valid generalization, the size of the weights is more important than the size of the network</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(135).pdf" style="text-decoration:none;">Interpretable Machine Learning: A Guide for Making Black Box Models Explainable</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(136).pdf" style="text-decoration:none;">Multi-Agent Reinforcement Learning: a critical survey</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(137).pdf" style="text-decoration:none;">Machine learning at the energy and intensity frontiers of particle physics</a></b></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </ul>
+ </br>
 
 
 
