@@ -100,8 +100,49 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(39).pdf" style="text-decoration:none;">Deep Boltzmann Machines</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(40).pdf" style="text-decoration:none;">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(41).pdf" style="text-decoration:none;">Deep Sparse Rectifier Neural Networks</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(42).pdf" style="text-decoration:none;">Deep, Skinny Neural Networks are not Universal Approximators</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(43).pdf" style="text-decoration:none;">Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(44).pdf" style="text-decoration:none;">Do Neural Networks Show Gestalt Phenomena?: An Exploration of the Law of Closure</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(45).pdf" style="text-decoration:none;">Don't Decay the Learning Rate, Increase the Batch Size</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(46).pdf" style="text-decoration:none;">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(47).pdf" style="text-decoration:none;">Dynamic Routing Between Capsules</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(48).pdf" style="text-decoration:none;">Efficient BackProp</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(49).pdf" style="text-decoration:none;">EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(50).pdf" style="text-decoration:none;">End-To-End Memory Networks</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(51).pdf" style="text-decoration:none;">Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(52).pdf" style="text-decoration:none;">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(53).pdf" style="text-decoration:none;">FixingWeight Decay Regularization in Adam</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(54).pdf" style="text-decoration:none;">FractalNet: Ultra-Deep Neural Networks without Residuals</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(55).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(56).pdf" style="text-decoration:none;">&&&&&&&&&&</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(57).pdf" style="text-decoration:none;">Geometric deep learning: going beyond Euclidean data</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(58).pdf" style="text-decoration:none;">Going deeper with convolutions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(59).pdf" style="text-decoration:none;">Gradient-Based Learning Applied to Document Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(60).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(61).pdf" style="text-decoration:none;">Neural Computation of Decisions in Optimization Problems</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(62).pdf" style="text-decoration:none;">How transferable are features in deep neural networks?</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(63).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></b></li> 
 
 
 
