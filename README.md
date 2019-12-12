@@ -78,7 +78,32 @@
   
   <h2>Deep Learning: </h2>
   <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(28).pdf" style="text-decoration:none;">Human-level control through deep reinforcement learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(28).pdf" style="text-decoration:none;">A Closer Look at Memorization in Deep Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(29).pdf" style="text-decoration:none;">A disciplined approach to neural network hyper-parameters: Part 1 &minus; learning rate, batch size, momentum, and weight decay</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(30).pdf" style="text-decoration:none;">A fast learning algorithm for deep belief nets</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(31).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(32).pdf" style="text-decoration:none;">Regularized Evolution for Image Classifier Architecture Search</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(33).pdf" style="text-decoration:none;">An exact mapping between the Variational Renormalization Group and Deep Learning</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(34).pdf" style="text-decoration:none;">Automatic Differentiation in Machine Learning: a Survey</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(35).pdf" style="text-decoration:none;">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(36).pdf" style="text-decoration:none;">Benchmarking Neural Network Robustness to Common Corruptions and Perturbations</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(37).pdf" style="text-decoration:none;">Dive into Deep Learning</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(38).pdf" style="text-decoration:none;">Data Synthesis based on Generative Adversarial Networks</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/arf(39).pdf" style="text-decoration:none;">Deep Boltzmann Machines</a></b></li> 
+
+
+
+
+
 
 
 
