@@ -218,8 +218,24 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(103).pdf" style="text-decoration:none;">Understanding Convolutional Neural Networks with A Mathematical Model</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(104).pdf" style="text-decoration:none;">Understanding deep learning requires rethinking generalization</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(105).pdf" style="text-decoration:none;">Understanding the difficulty of training deep feedforward neural networks</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(106).pdf" style="text-decoration:none;">Universal Approximation Bounds for Superpositions of a Sigmoidal Function</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(107).pdf" style="text-decoration:none;">Universal Approximation using Radial-Basis-Function Networks</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(108).pdf" style="text-decoration:none;">Unsupervised learning by competing hidden units</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(109).pdf" style="text-decoration:none;">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(110).pdf" style="text-decoration:none;">Visualizing and Understanding Recurrent Networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(111).pdf" style="text-decoration:none;">Weight Agnostic Neural Networks</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(112).pdf" style="text-decoration:none;">Why does deep and cheap learning work so well?</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(113).pdf" style="text-decoration:none;">YOLO9000: Better, Faster, Stronger</a></b></li> 
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(114).pdf" style="text-decoration:none;">You Only Look Once: Unified, Real-Time Object Detection</a></b></li> 
+   
 </ul>
