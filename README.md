@@ -257,10 +257,10 @@
  </br>
  <h2>Fairness, Bias, Ethics in AI and ML: </h2>
  <ul>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(6).pdf" style="text-decoration:none;">Recent progress in analog memory-based accelerators for deep learning</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(120).pdf" style="text-decoration:none;">Fair is Better than Sensational: Man is to Doctor asWoman is to Doctor</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(7).pdf" style="text-decoration:none;">Rethinking floating point for deep learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(121).pdf" style="text-decoration:none;">The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning</a></b></li>
  
  </ul>
  </br>
