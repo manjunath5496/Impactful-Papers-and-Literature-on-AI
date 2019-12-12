@@ -200,6 +200,24 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(93).pdf" style="text-decoration:none;">SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(94).pdf" style="text-decoration:none;">Session-based Recommendations with Recurrent Neural Networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(95).pdf" style="text-decoration:none;">SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(96).pdf" style="text-decoration:none;">SGDR: Stochastic Gradient Descent with Warm Restarts</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(97).pdf" style="text-decoration:none;">Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(98).pdf" style="text-decoration:none;">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(99).pdf" style="text-decoration:none;">The Matrix Calculus You Need For Deep Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(100).pdf" style="text-decoration:none;">The power of deeper networks for expressing natural functions</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(101).pdf" style="text-decoration:none;">Tutorial on Variational Autoencoders</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(102).pdf" style="text-decoration:none;">Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/arfi(103).pdf" style="text-decoration:none;">Understanding Convolutional Neural Networks with A Mathematical Model</a></b></li> 
+
 
 
 
